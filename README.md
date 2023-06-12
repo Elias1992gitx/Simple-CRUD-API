@@ -6,6 +6,7 @@ Implement Simple CRUD API
 the task is to implement simple CRUD API using in-memory database underneath.
 
 Details:
+
 1. The task must be solved using only express and provided packages in package.json. Any libraries and packages are prohibited.
 2. API path /person:
    GET /person or /person/${personId} should return all persons or person with corresponding 
