@@ -70,7 +70,7 @@ Example requests:
   Content-Type: application/json
 
   {
-    "name": "John Doe",
+    "name": "Abebe",
     "age": 30,
     "hobbies": ["reading", "hiking"]
   }
