@@ -23,7 +23,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API implemented using an in
 
 5. Start the server by running the following command:
    ```
-   node index.js
+   npm start
    ```
 
 6. The server will start running on `http://localhost:3000`.
